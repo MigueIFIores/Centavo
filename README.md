@@ -1,5 +1,8 @@
 # Análisis de Población y Conversión de Monedas de Países a MXN
 
+**Autor:** Miguel Ángel Flores Álvarez  
+**Correo:** floresalvarezmiguelangel1@gmail.com
+
 ## Descripción
 Este proyecto permite obtener información de países usando APIs públicas (World Bank y BDC) y convertir valores monetarios a pesos mexicanos (MXN). 
 Incluye:
